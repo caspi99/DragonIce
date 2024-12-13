@@ -1,0 +1,35 @@
+{
+  "distance_to_target": 35.0,
+  "minimum_distance_to_target": 20.0,
+  "angle_addition_interval": {
+    "x": 32.6,
+    "y": 32.6
+  },
+  "number_of_tutorial_rounds": 4,
+  "time_between_previous_stone_tutorial_interval": {
+    "x": 2.0,
+    "y": 12.0
+  },
+  "wait_until_famirialitzation_ends": true,
+  "stone_speed_tutorial_interval": {
+    "x": 4.0,
+    "y": 12.0
+  },
+  "seconds_to_kick_tutorial": {
+    "x": 1.5,
+    "y": 5.0
+  },
+  "number_of_true_rounds": 15,
+  "time_between_previous_stone_true_interval": {
+    "x": 2.0,
+    "y": 2.0
+  },
+  "stone_speed_true_interval": {
+    "x": 12.0,
+    "y": 12.0
+  },
+  "seconds_to_kick_true": {
+    "x": 1.5,
+    "y": 1.5
+  }
+}

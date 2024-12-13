@@ -1,0 +1,16 @@
+{
+  "enableTracking": false,
+  "screenToWorldPosTracking": false,
+  "enableRotation": false,
+  "enableYAxis": false,
+  "tracking_player_reorder": false,
+  "light_docks": false,
+  "play_level_1": true,
+  "play_level_2": true,
+  "sync": true,
+  "enableDataExtraction": false,
+  "continuous_data_saving": false,
+  "update_data_time": 0.0,
+  "binauralSound": false,
+  "visualizePlayerPosition": true
+}
